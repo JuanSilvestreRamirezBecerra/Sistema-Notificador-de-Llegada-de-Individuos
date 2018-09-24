@@ -73,8 +73,8 @@ Se utilizo una funcion de la libreria <avr/sleep.h>, la cual es set_sleep_mode()
 este metodo esta sobrecargado y recibe diferentes parametros, entre esos se escojio SLEEP_MODE_PWR_DOWN
 que se supone es el que te da un mayor ahorro de energia en la ejecucion.
 
-En el metodo interrupcion() solo niego el valor de mi variable volatil, el "estadoPuerta" que tengo, este cambia de 0
-a 1 indicando que la puerta ha sido abierta.
+En el metodo interrupcion() solo niego el valor de mi variable volatil, el "estadoPuerta" que tengo, este cambia de 0(cerrado)
+a 1(abierto) indicando que la puerta ha sido abierta.
 
 En mi loop monitero el valor actual de mi potenciometro que utilizando una
 funcion map() la cual obtiene un rango de valores utiles para luego asignarlo a mi variable
