@@ -50,7 +50,7 @@ Lograr un sistema de alarma que simule una puerta que al abrirla se escuche una 
 * Se utilizo un red switch conectado con en forma de un PULL UP con una resistencia de 10kΩ, la señal de 0 y 1 es recibida por
  el pin 3 ya que este en la placa de arduino uno puede manejar interrupciones
 
-#Descripcion de la solucion Codigo IDE Arduino(pseudocodigo)
+# Descripcion de la solucion Codigo IDE Arduino(pseudocodigo)
 
 Tomando en cuenta la descripcion de la practica se necesita tener un ahorro de energia
 ya que esto es muy importante en proyectos que sean mas grandes; Inlui una libreria(<avr/sleep.h>) para usar
