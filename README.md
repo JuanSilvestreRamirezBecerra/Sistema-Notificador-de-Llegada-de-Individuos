@@ -24,6 +24,8 @@ Requisito indispensable:
 Reducir el consumo de energía al mínimo. Mientras la alarma no esté sonando el arduino deberá consumir la mínima cantidad de energía.
 Cuando la puerta se cierre esta deberá de dejar de sonar y regresar al estado de bajo consumo energético.
 
+# Entorno de desarrollo de practica
+Se utilizo un Sistema opertaivo Ubuntu 16.05 LTS y ID Arduino para el desarrollo de la practica, tambien se empleo un repositorio git para luego subirlo a github
 # Materiales usados
 
 -Arduino UNO 
