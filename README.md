@@ -92,4 +92,15 @@ todos los procesos paran hasta que de nuevo la interrupcion cambie el "estadoPue
 
 
 
-
+##Resultados
+<table>
+  <tr>
+   <td><img src=https://github.com/JuanSilvestreRamirezBecerra/Sistema-Notificador-de-Llegada-de-Individuos/blob/master/Circuito_Diagrama.png></td>
+    <td><img src=https://github.com/JuanSilvestreRamirezBecerra/Sistema-Notificador-de-Llegada-de-Individuos/blob/master/circuitoFisico_1.jpg
+></td>
+   <td><img src=https://github.com/JuanSilvestreRamirezBecerra/Sistema-Notificador-de-Llegada-de-Individuos/blob/master/circuitoFisico_2.jpg
+></td>
+   <td><img src=https://github.com/JuanSilvestreRamirezBecerra/Sistema-Notificador-de-Llegada-de-Individuos/blob/master/circuitoFisico_3.jpg
+></td>
+ </tr>
+ </table>
